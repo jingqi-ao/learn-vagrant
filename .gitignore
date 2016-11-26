@@ -1,0 +1,6 @@
+# Mac files
+.DS_Store
+
+# Vagrant runtime file
+.vagrant
+
